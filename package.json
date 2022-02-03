@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "cy:open": "cypress open",
+ cyp-0003
     "cy:run": "cypress run",
     "cy:run-dashboard": "cypress run --record --key 5ae997df-5859-4ffd-b73a-faa5c687bd59"
   },

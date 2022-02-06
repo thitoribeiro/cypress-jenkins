@@ -1,5 +1,3 @@
-const cypress = require("cypress")
-
 describe('Submit Form', () => {
     it('Should fill and submit developer name', () => {
         cy.visit("https://devexpress.github.io/testcafe/example/")
